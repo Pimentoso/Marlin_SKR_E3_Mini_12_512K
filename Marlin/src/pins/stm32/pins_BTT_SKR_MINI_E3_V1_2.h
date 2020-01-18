@@ -42,7 +42,7 @@
 //
 // Servos
 //
-#define SERVO0_PIN         PA1
+#define SERVO0_PIN         PC14
 
 //
 // Limit Switches
@@ -54,7 +54,7 @@
 //
 // Z Probe must be this pins
 //
-#define Z_MIN_PROBE_PIN    PC14
+#define Z_MIN_PROBE_PIN    PA1
 
 //
 // Filament Runout Sensor
